@@ -1,0 +1,15 @@
+
+# Example
+
+conda create -n tfats python=3.8
+conda activate tfat
+conda install -c anaconda ipykernel
+pip install tensorflow
+pip install pydot
+pip install pydotplus
+pip install graphviz
+
+pip install pandas
+pip install matplotlib
+pip install scikit-learn
+https://graphviz.org/download/
